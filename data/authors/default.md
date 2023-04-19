@@ -1,16 +1,18 @@
 ---
-name: Tails Azimuth
+name: Daniel Wenzel
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Desenvolvedor SCADA
+company: SCADAHUB Tecnologia
+email: danielm.wenz@gmail.com
+twitter: https://twitter.com/DmWenzel_
+linkedin: https://www.linkedin.com/in/danielwenzel-/
+github: https://github.com/Daniwenzel
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+import AlternatingWord from '@/data/authors/alternatinghobby'
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Engenheiro da computação apaixonado pela tecnologia e pela qualidade de vida que ela pode nos proporcionar. Utilizando a integração de hardwares e softwares para resolução de problemas e otimização de processos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tive a oportunidade de trabalhar em diversos projetos na área de energias renováveis, e acredito que o desenvolvimento do ser humano é proporcional à capacidade de gerir os recursos energéticos de maneira eficaz.
+
+Também, fazem parte dos meus interesses: <AlternatingWord />

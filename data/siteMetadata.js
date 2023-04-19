@@ -1,21 +1,21 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'Personal Blog',
+  author: 'Daniel Wenzel',
+  headerTitle: 'Daniel Wenzel',
+  description: 'A repository of articles on skills used in the automation and programming industry',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/logo.png',
+  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app', // alterar
+  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog', // alterar
+  siteLogo: '/static/images/logo.png', // alterar
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  socialBanner: '/static/images/twitter-card.png', // alterar
+  email: 'danielm.wenz@gmail.com',
+  github: 'https://github.com/Daniwenzel',
+  twitter: 'https://twitter.com/DmWenzel_',
+  facebook: 'https://www.facebook.com/danielm.wenz',
+  youtube: 'https://www.youtube.com/@daniel.wenzel',
+  linkedin: 'https://www.linkedin.com/in/danielwenzel-/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
